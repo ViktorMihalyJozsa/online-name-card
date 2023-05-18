@@ -57,7 +57,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 70px;
+  margin-top: 100px;
   height: 100vh;
   background: url('assets/nature.jpg') no-repeat center center fixed;
   background-size: cover;
