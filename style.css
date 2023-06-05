@@ -57,7 +57,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  /* position: fixed;  /*  Ha szeretnéd az oldal tetejéhez rögzíteni...  */
+  /* top: 0px;       /*  position: fixed; top: 0px;  */
   height: 100vh;
   background: url('assets/nature.jpg') no-repeat center center fixed;
   background-size: cover;
